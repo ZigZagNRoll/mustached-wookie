@@ -1,0 +1,4 @@
+F:\GitHub\mustached-wookie\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+F:\GitHub\mustached-wookie\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+F:\GitHub\mustached-wookie\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+F:\GitHub\mustached-wookie\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
